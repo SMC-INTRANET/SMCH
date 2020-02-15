@@ -1,2 +1,16 @@
 # SMCH
-Three people computer high school intranet project.
+> 본 프로젝트는 "세명컴퓨터고등학교 인트라넷" 프로젝트입니다.
+
+## 프로젝트 개발 취지
+1. 교내 인트라넷 시스템 개발
+2. 졸업생도 활용 가능한 인트라넷 시스템으로 선후배 간 교류 증진
+
+## 제공하는 기능
+
+## 패치 노트
+
+## 기여하기
+기능 제안, 버그 등의 문의는 이슈로 등록해 주시거나 문제가 되는 부분은 수정하신 후 PR해 주시며 감사하겠습니다. 
+
+## LICENSE
+본 프로젝트는 [MIT LICENSE](https://github.com/SMC-INTRANET/SMCH/blob/master/LICENSE)를 따라 자유롭게 이용하실 수 있습니다.
